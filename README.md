@@ -305,7 +305,7 @@ When Unei enters the field, choose up to one forward and one backup opponent con
 Dull: choose one summon in your break zone, add it to your hand. You can only use this ability once per turn.  
 
 
-![Edge](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-070c.png)  
+![Edge](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-070C.png)  
 Edge    
 Ninja    
 When Edge enters the field, place 3 shuriken counters on edge.  
@@ -318,8 +318,8 @@ Red Mage
 EX BURST - When Elgo enters the field, choose one multielement card in your break zone, add it to your hand.  
 
 
-![Eald'Narche](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-071C.png)  
-Eald'Narche     
+![Eald'Narche](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-072C.png)  
+Eald'Narche    
 Descendent of the Zilart  
 When Eald'narche enters the field, yo may discard a card, when do do, choose one forward, break it.  
 
