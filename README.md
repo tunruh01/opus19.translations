@@ -381,6 +381,67 @@ Remove the top 5 cards of your deck from the game: Put 1 Experimental Counter on
 Damage 3 - Veriaulde gains Haste  
 
 
+![Aerith](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-088C.png)  
+Aerith       
+Ancient   
+Dull, Put Aerith in break: Choose on light card in your break, add it to your hand.  
+
+![Gau](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-089H.png)  
+Gau       
+Wild Child     
+Back Attack  
+When Gau enters the field, choose one category VI forward you control. It gains 1000 power for each Category VI character you control until the end of the turn.  
+1, Dull: Put Gau on top of your deck and shuffle your deck. Draw a card.
+
+![Clavat](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-090C.png)  
+Clavat       
+Standard Unit     
+When Clavat enters the field, draw 1, then discard 1.  
+When Clavat enters the field, if the cost to cast clavat included at least 3 elements, opponent chooses one forward they control and puts it in the break one.  
+
+
+![Sapphire Weapon](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-091R.png)  
+Sapphire Weapon         
+Weapon  
+If you have 5 or more job Weapon in your break zone, the cost to cast sapphie weapon is reduced by 5.  
+When sapphie weapon is placed into the break zone from the field, draw 2 cards.  
+
+
+![White Mage](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-092C.png)  
+White Mage  
+Standard Unit  
+1, dull, put white mage in the break zone: choose one forward opponent controls, Return it to it's owners hand.  
+Damage 3 - When White mage enters the field, draw a card.  
+
+![Strago](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-093H.png)  
+Strago    
+Blue Mage  
+EX BURST - When Strago enters the field, or is placed in the break zone from the field, reveal the top 4 cards of your deck. Add one Category VI character there to your hand and put the rest on bottom.  
+S: Choose one forward, it gains 2000 power for each damage you've received until the end of the turn.  
+
+
+![Sophia](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-095C.png)  
+Sophia    
+Devout  
+At the start of your attack phase, choose on forward opponent controls, it loses 2000 power until the end of the turn.  
+
+![Josef](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-099R.png)  
+Josef    
+Rebel/Monk    
+If you control card name Firion, Josef gains 2000 power and 'When Josef attacks, draw a card'.  
+When Josef enters the field, you may play 1 category II forward of cost 3 or less from your hand to the field.  
+
+![Tidus](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-103H.png)  
+Tidus  
+Guardain  
+EX BURST - When Tidus enters the field, choose one forward of cost 5 or less opponent controls, Place it at the bottom of their deck.  
+Remove 20 cards from th ebreak zone. Play Tidus to the field, you can only use this ability during your main phase and only if Tidus is in the break zone.  
+
+
+
+
+
+
 
  
 
