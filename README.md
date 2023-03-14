@@ -304,3 +304,84 @@ When casting you can remove two earth or water summons in any combination to red
 When Unei enters the field, choose up to one forward and one backup opponent controls, return them to their owners hand.  
 Dull: choose one summon in your break zone, add it to your hand. You can only use this ability once per turn.  
 
+
+![Edge](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-070c.png)  
+Edge    
+Ninja    
+When Edge enters the field, place 3 shuriken counters on edge.  
+Dull, Remove one shuriken counter: Choose one forward, deal it 5000 damage.  
+
+
+![Elgo](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-071C.png)  
+Elgo    
+Red Mage      
+EX BURST - When Elgo enters the field, choose one multielement card in your break zone, add it to your hand.  
+
+
+![Eald'Narche](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-071C.png)  
+Eald'Narche     
+Descendent of the Zilart  
+When Eald'narche eneters the field, yo may discard a card, when do do, choose one forward, break it.  
+
+
+![Kain](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-073C.png)  
+Kain       
+Dragoon  
+Back Attack  
+When Cain enters the field, choose one forward, it gains first strike until the end of the turn.  
+
+
+![Scholar](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-074C.png)  
+Scholar       
+Standard Unit    
+Dull, Put Scholar in the break zone: Choose one damaged forward, deal it 8000 damage.   
+Damage 3 - When Scholar enters the field, choose one forward of cost 3 or less opponent controls, break it.  
+
+
+![Chimera](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-075C.png)  
+Chimera       
+Chimera  
+When Chimera enters the field, choose a character of cost 3 or less you control, break it.  
+0: Until the end of turn, Chimera becomes an 8000 power forward, you can only use the ability once per turn.  
+
+
+![Jinnai](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-078C.png)  
+Jinnai       
+Ninja    
+Dull: Choose a forward, dull it.  
+4: Activate Jinnai  
+
+
+![Moebius](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-079H.png)  
+Moebius       
+Dream Stooge  
+If you control 3 or more Job Dream Stooge, the forward Dream Stooge's you control gain 2000 power.  
+When Moebius enters the field, choose one card name Laragorn or Curlax in your break zone and add it to your hand.  
+
+
+![Richard](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-084R.png)  
+Richard       
+Dragoon    
+When Richard eneters the field, reveal the top 5 cards of your deck. Add one lightning card form there to your hand and put the rest on the bottom.  
+Dull, Put Richard in the break zone: Choose one forward, it gains first strike until the end of the turn.  
+
+
+![Dragoon](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-085C.png)  
+Dragoon       
+Standard Unit  
+Haste  
+When Dragoon eneters the field, choose one forward, if Dragoon was cast with 3 or more elements, break it. 
+
+
+![Veriaulde](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-115H.png)  
+Veriaulde       
+Yuke  
+If Veriaulde has an Experimental Counter on it, its power becomes 9000 and gains: 'When Veriaulde attacks, dull all forwards opponent controls'.  
+Remove the top 5 cards of your deck from the game: Put 1 Experimental Counter on Veriaulde.  
+Damage 3 - Veriaulde gains Haste  
+
+
+
+ 
+
+
