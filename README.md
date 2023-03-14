@@ -99,7 +99,7 @@ When Shadow Lord enters the field, your opponent discards a card, you draw a car
 ![Larkeicus](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-112C.png)  
 Larkeicus  
 Doctor  
-When Larkeicus eneters the field, choose one monster of cost 3 or less in your break, play it to the field.  
+When Larkeicus enters the field, choose one monster of cost 3 or less in your break, play it to the field.  
 
 ![Sephiroth](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-025R.png)  
 Sephiroth  
@@ -151,10 +151,10 @@ Evrae
 Evrae  
 0: Choose one backup you control. Activate it. You can only use the ability on your turn and only once per turn.  
 
-![Thief](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-04C.png)  
+![Thief](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-040C.png)  
 Thief  
 Standard Unit  
-If thief receives damage from oppoenents ability, damage becomes 0.  
+If thief receives damage from opponent ability, damage becomes 0.  
 When Thief enters the field, if it was cast with 3 or more elements, opponent mills 3.  
 
 ![White Mage](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-042C.png)  
@@ -244,7 +244,7 @@ When bared is placed into the break zone from the field, choose oen forward othe
 ![Doga](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-061H.png)  
 Doga  
 Archmage    
-When Doga eneters the field, you may discard a summon, when you do gain 2 crystals.  
+When Doga enters the field, you may discard a summon, when you do gain 2 crystals.  
 Fire, Crystal, Dull: Deal 7000 damage to all forwards opponent controls.  
 Lightning, Crystal, Dull: Choose one forward, Break it.  
 
@@ -267,7 +267,7 @@ When Kefka is put from the field into the break zone, choose one summon of cost 
 ![Graf](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-056C.png)  
 Graf  
 ???  
-When Graf eneters the field, choose one forward. If Graf was cat with all earth CP, break it.  
+When Graf enters the field, choose one forward. If Graf was cat with all earth CP, break it.  
 
 
 ![Eiko](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-055R.png)  
@@ -321,7 +321,7 @@ EX BURST - When Elgo enters the field, choose one multielement card in your brea
 ![Eald'Narche](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-071C.png)  
 Eald'Narche     
 Descendent of the Zilart  
-When Eald'narche eneters the field, yo may discard a card, when do do, choose one forward, break it.  
+When Eald'narche enters the field, yo may discard a card, when do do, choose one forward, break it.  
 
 
 ![Kain](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-073C.png)  
@@ -362,7 +362,7 @@ When Moebius enters the field, choose one card name Laragorn or Curlax in your b
 ![Richard](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-084R.png)  
 Richard       
 Dragoon    
-When Richard eneters the field, reveal the top 5 cards of your deck. Add one lightning card form there to your hand and put the rest on the bottom.  
+When Richard enters the field, reveal the top 5 cards of your deck. Add one lightning card form there to your hand and put the rest on the bottom.  
 Dull, Put Richard in the break zone: Choose one forward, it gains first strike until the end of the turn.  
 
 
@@ -370,7 +370,7 @@ Dull, Put Richard in the break zone: Choose one forward, it gains first strike u
 Dragoon       
 Standard Unit  
 Haste  
-When Dragoon eneters the field, choose one forward, if Dragoon was cast with 3 or more elements, break it. 
+When Dragoon enters the field, choose one forward, if Dragoon was cast with 3 or more elements, break it. 
 
 
 ![Veriaulde](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-115H.png)  
