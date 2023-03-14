@@ -146,3 +146,75 @@ When The Emperor enters the field due to (warp or ability?) choose one of the fo
 - Remove all cards in opponents break from the game.
 - Choose one forward in your break zone, add it to your hand.
 
+![Evrae](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-038R.png)  
+Evrae  
+Evrae  
+0: Choose one backup you control. Activate it. You can only use the ability on your turn and only once per turn.  
+
+![Thief](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-04C.png)  
+Thief  
+Standard Unit  
+If thief receives damage from oppoenents ability, damage becomes 0.  
+When Thief enters the field, if it was cast with 3 or more elements, opponent mills 3.  
+
+![White Mage](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-042C.png)  
+White Mage  
+Standard Unit  
+1, dull, Put White MAge in the break: Choose one multi element foward in your break zone, add it to your hand.  
+Damage 3 - When White Mage enters the field, choose 2 backups, activate them.  
+
+
+![Sarah (Mobius)](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-044R.png)  
+Sarah (Mobius)  
+Lady Raven(?)  
+Category Mobius fowards gain 1000 power.  
+
+
+![Sophie](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-045H.png)  
+Sophie 
+Freelancer(?)  
+Warp 1 - Wind  
+When sophie enters the field, choose up to the following equal to the number of forwards other than sophie you control.  
+- Choose one Monster, break it.  
+- Activate all backups you control  
+- Until the end of turn Sophie gains 2000 power and haste.
+
+
+![Buddy](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-046C.png)  
+Buddy  
+Gullwings  
+When Buddy enters the field, you may search one category X backup and add it to your hand.
+
+
+![Gramps](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-047C.png)  
+Gramps  
+Old Man  
+Damage 5 - EX BURST - When Gramps enters the field, choose one forward of cost 4 or more, break it.
+
+
+![Bartz](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-048C.png)  
+Bartz  
+Wanderer
+2: Put Bartz on the bottom of your deck, draw 2 cards.  
+
+
+![gilgamesh](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-113C.png)  
+Gilgamesh  
+Praetorian  
+Warp 1 - Wind, Lightning  
+Haste Brave  
+S, Wind, Lightning, 1, Dull: Choose one forward, break it.  
+
+
+![Hilda](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-117H.png)  
+Hilda  
+Princess  
+Dull: Search one card name Scott, play it onto the field.  
+Dull: Choose one category II Forward in your break, add it to your hand, you can only use this once per turn and only on your turn.
+
+
+
+
+
+
+
