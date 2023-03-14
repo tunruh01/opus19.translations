@@ -213,8 +213,94 @@ Dull: Search one card name Scott, play it onto the field.
 Dull: Choose one category II Forward in your break, add it to your hand, you can only use this once per turn and only on your turn.
 
 
+![Monk](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-067C.png)  
+Monk  
+Standard Unit  
+When monk enters the field, all forwards you control gain 2000 power until the end of the turn.  
+When monk enters the field, choose one forward, if monk was cast with 3 or more elements, monk and the forward deal damage to each other.  
 
 
+![The Deathlord](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-065C.png)  
+The Deathlord  
+Deathlord    
+Earth, Earth, 1, Dull, Put The Deathlord in the break zone: Choose up to 2 characters in your break zone, add them to your hand. The deathlord deals you a point of damage.  
 
 
+![Fenrir](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-064R.png)  
+Fenrir  
+If and earth forward has entered your field this turn, cost is reduced by 3.  
+Choose one: 
+- Choose one multi element forward, break it.   
+- Choose one light or dark forward, break it.  
+
+
+![Barret](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-063H.png)  
+Barret  
+Warrior  
+Whenever you cast a multi element card, deal 4000 to all forwards opponent controls.  
+When bared is placed into the break zone from the field, choose oen forward other than barret in your break zone and it to your hand.  
+
+
+![Doga](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-061H.png)  
+Doga  
+Archmage    
+When Doga eneters the field, you may discard a summon, when you do gain 2 crystals.  
+Fire, Crystal, Dull: Deal 7000 damage to all forwards opponent controls.  
+Lightning, Crystal, Dull: Choose one forward, Break it.  
+
+
+![Beast Master](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-060C.png)  
+Beast Master  
+Standard Unit      
+1, dull, pt beastmaster in the break zone: search for a cost 2 or less monster and play it to the field.  
+Damage 3 - When beastmaster enters the field, you may search for a monster of cost 4 or less and add it to your hand.  
+
+
+![Kefka](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-057L.png)  
+Kefka  
+Mage     
+If your opponent controls 3 or more forwards, the cost to cast Kefka is reduced by 5.  
+Brave  
+When Kefka is put from the field into the break zone, choose one summon of cost 4 or less in your break zone, you may cast it without paying it's cost, if you cast it remove it from the game.
+
+
+![Graf](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-056C.png)  
+Graf  
+???  
+When Graf eneters the field, choose one forward. If Graf was cat with all earth CP, break it.  
+
+
+![Eiko](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-055R.png)  
+Eiko  
+Summoner    
+Dull 3 active summoners: cast a summon of cost 7 or less from your hand without paying the cost. 
+
+
+![Vincent](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-054C.png)  
+Vincent  
+Gunslinger      
+When Vincent enters the field, choose one forward, deal it 5000 damage.  
+Damage 3 - Dull, put vincent in the break zone: Choose a forward, deal it 7000 damage. 
+
+
+![Vanille](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-053C.png)  
+Vanille  
+Jammer/L'cie        
+When Vaniile enters the field, remove a card from your opponents break zone.  
+Dull: Choose one Summon, if opponent doesn't pay 2, cancel it's effect. 
+
+![Meia](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-121H.png)  
+Meia  
+Blue Witch (?)  
+Brave  
+Category Mobius fowards other than Meia you control gain Brave and 100 power.  
+When Meia enters the field, reveal the top 5 cards of your deck. Choose up to 2 category mobius cards and add them to your hand. Rest to the bottom.
+
+
+![Unei](http://www.square-enix-shop.com/jp/ff-tcg/card/cimg/large/opus19/19-119L.png)  
+Unei  
+Arcmage  
+When casting you can remove two earth or water summons in any combination to reduce cost by 2.  
+When Unei enters the field, choose up to one forward and one backup opponent controls, return them to their owners hand.  
+Dull: choose one summon in your break zone, add it to your hand. You can only use this ability once per turn.  
 
